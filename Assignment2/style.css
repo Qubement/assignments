@@ -1,0 +1,52 @@
+h3{
+  margin:5px;
+  font-family: Calibri; 
+
+  font-size: 25pt;
+ 
+  font-style: normal; 
+  font-weight: Bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+  
+ 
+}
+table{
+  font-family: Calibri; 
+  color:whitesmoke; 
+
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: SlateBlue; 
+  border-collapse: collapse; 
+  border: 2px solid navy
+}
+table.inner{
+  border: 0px
+
+}
+
+#bcolor {
+    border: 0px
+}
+
+input, label{
+  display: inline-block;
+  vertical-align: middle;
+ 
+}
+#others
+{
+
+    width:22%
+}
+.btn{
+
+    width:90px;
+    height:30px;
+    font-weight:bold;
+    border-radius: 3px;
+}
